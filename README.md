@@ -4,3 +4,4 @@ This repository contains the code for a simple 2D ball game built with Bevy Engi
 
 > [Learn Bevy Engine 0.10 Beginner Tutorial](https://www.youtube.com/playlist?list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd)
 
+This game uses the free assets from [Kenney](https://www.kenney.nl/).
